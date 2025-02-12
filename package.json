@@ -1,0 +1,32 @@
+{
+  "name": "creative-agency",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@formspree/react": "^2.5.1",
+    "@sanity/client": "^6.27.2",
+    "@tailwindcss/postcss": "^4.0.4",
+    "motion": "^12.4.1",
+    "next": "^15.1.6",
+    "react": "^18.2.0",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-slick": "^0.29.0",
+    "sanity": "^3.74.1",
+    "sass": "^1.84.0",
+    "slick-carousel": "^1.8.1",
+    "typewriter-effect": "^2.21.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^4.0.5"
+  }
+}

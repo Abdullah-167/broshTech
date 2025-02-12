@@ -101,7 +101,7 @@ const Hero = () => {
               }
             `}</style>
             <h1 className="hero-heading">
-              Every minutes a person think's to create a brand
+              Every minute a person think's to create a brand
             </h1>
           </div>
         </div>
